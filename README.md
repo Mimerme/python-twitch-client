@@ -1,11 +1,8 @@
 python-twitch-client
 ====================
 
-[![Latest docs][docs-img]][docs]
-[![Latest version][pypi-img]][pypi]
-[![Latest build][travis-img]][travis]
-[![Coverage][codecov-img]][codecov]
-
+Fixes
+====================
 
 
 
